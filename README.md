@@ -1,1 +1,1 @@
-I built this in high school, so don't judge thanks!
+I built this in high school, so don't judge thanks! We wrote this with the BlueJ IDE. From what I remember I placed the game initialization logic in the Board class. I created movement rules for each piece, but I never got around to developing an algorithm to detect checkmates and end the game. I learned a lot about GUIs in Java as well as OOP while working on this project. 
